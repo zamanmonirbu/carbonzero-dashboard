@@ -56,16 +56,6 @@ A full-stack consultation platform where different companies can register by pay
 | Admin        | admin@gmail.com        | 12345678   |
 | Super Admin  | superadmin@gmail.com   | 12345678   |
 
----
-
-## 💻 Tech Stack
-
-| Frontend  | Backend     | Database | Others |
-|-----------|-------------|----------|--------|
-| Next.js  | Node.js     | MongoDB  | Stripe (Payments) |
-| Tailwind  | Express.js  | Mongoose | JWT, Role Auth     |
-
----
 
 ## 📦 Installation
 
@@ -79,3 +69,35 @@ npm install
 
 #Run the project
 npm run dev
+
+
+
+
+## 💻 Tech Stack
+
+| Frontend  | Backend     | Database | Others |
+|-----------|-------------|----------|--------|
+| Next.js  | Node.js     | MongoDB  | Stripe (Payments) |
+| Tailwind  | Express.js  | Mongoose | JWT, Role Auth     |
+
+
+
+
+```
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request. For any issues or suggestions, feel free to open an issue.
+
+## Connect with Me
+
+You can connect with me through the following platforms:
+
+- **Email:** [monir.cse6.bu@gmail.com](mailto:monir.cse6.bu@gmail.com)
+- **GitHub:** [![GitHub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
+- **LinkedIn:** [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmoniruzzamanbu/)
+- **Codeforces:** [![Codeforces Icon](https://img.shields.io/badge/Codeforces-00FF00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZaMo)
+- **LeetCode:** [![LeetCode Icon](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moniruzzamancse6/)
+- **Portfolio:** [![Portfolio Icon](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://moniruzzamanbu.netlify.app/)
+- **Medium:** [![Medium Icon](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zamanmonirbu)
+
+Feel free to reach out or connect for collaborations, suggestions, or just to chat about technology!
